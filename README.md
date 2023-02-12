@@ -14,3 +14,8 @@ Build algorithms to predict the concentration of pollutants in the air using Oce
 
 Data is provided via the Catalan Transparency Portal by the General Directorate of Transparency and Good Governance of the Generalitat de Catalunya. The portal provides data on Catalonia's transparency and good governance, in addition to details on public administration, citizen participation, and information access. The dataset contains hourly measurements of air pollution from 1991 to the present, collected by the automatic measuring stations of the Air Pollution Monitoring and Forecasting Network.
 
+### Submissions [Ocean Marketplace]
+--- 
+Algorithm 1 : https://market.oceanprotocol.com/asset/did:op:a5e3cb6cfa9ccc702464168621f9625d488455984fe0fd81a8ec2fc671e085cc
+
+Algorithm 2 : https://market.oceanprotocol.com/asset/did:op:cbee73149648bafec85cd116f5ff27eeee857c26b84baafbfb345518445c5f45
