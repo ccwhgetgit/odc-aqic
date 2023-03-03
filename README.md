@@ -1,6 +1,6 @@
 ## Ocean Data Challenge :: Air Quality in Catalonia
 
-Award : 2nd Prize (82.40)
+Award : 2nd Prize 
 
 Data Analysis + Prediction Algo for air quality in Catalonia 
 
