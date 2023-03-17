@@ -1,6 +1,6 @@
 ## Ocean Data Challenge :: Air Quality in Catalonia
 
-Award : 2nd Prize 
+Award : 2nd Prize (https://blog.oceanprotocol.com/air-quality-data-challenge-winners-2ae7e3a72bc3)
 
 Data Analysis + Prediction Algo for air quality in Catalonia 
 
